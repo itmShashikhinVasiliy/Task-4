@@ -33,12 +33,14 @@
             <scope>test</scope>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/org.scalatestplus/junit-4-13 -->
         <dependency>
             <groupId>org.scalatestplus</groupId>
-            <artifactId>junit-4-12_2.13</artifactId>
-            <version>3.2.2.0</version>
+            <artifactId>junit-4-13_3</artifactId>
+            <version>3.3.0.0-alpha.1</version>
             <scope>test</scope>
         </dependency>
+
     </dependencies>
 
 </project>
